@@ -5,7 +5,7 @@ This branch is dedicated towards the month of October and our focus which is "Mo
 
 "Tokenizer and Model Saved Configs" folder contains tokenizer and "bert-base-uncased" model saved weights configurations set during Demo 1: Finetuning Approach Using Google Bert. 
 
-"Data" folder contains keywords csv file loaded into the program, keywords and their corresponding emojis text file, and "cnn_dailynews".py our dataset used for training the model which is a loading script downloaded from hugginface. 
+"Data" folder contains keywords csv file loaded into the program, keywords and their corresponding emojis text file, and "cnn_dailynews".py our dataset used for training the model which is a loading script downloaded from huggingface. 
 
 Pretask used for training is based on keyword presence and type of task is multi label classification where instances can belong to more than one label. 
 

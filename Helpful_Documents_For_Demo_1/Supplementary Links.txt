@@ -1,0 +1,25 @@
+Helpful Links used during Demo 1 Development Process:
+
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1224/reports/custom_117172288.pdf
+
+https://discuss.huggingface.co/t/trainer-evaluate-vs-trainer-predict/28132/4
+
+https://datascience.stackexchange.com/questions/39264/how-does-sigmoid-activation-work-in-multi-class-classification-problems
+
+https://wandb.ai/amanarora/Written-Reports/reports/Understanding-Logits-Sigmoid-Softmax-and-Cross-Entropy-Loss-in-Deep-Learning--Vmlldzo0NDMzNTU3#:~:text=Softmax%20itself%20is%20an%20activation,their%20total%20sum%20is%201.
+
+https://datascience.stackexchange.com/questions/73408/what-information-does-output-of-sep-token-captures-in-bert
+
+https://www.quora.com/How-much-training-data-is-needed-to-fine-tune-a-BERT-like-model-for-a-closed-domain-problem
+
+https://sanjana19097-85548.medium.com/emoticons-prediction-c1c01925c642
+
+https://huggingface.co/docs/transformers/training
+
+
+
+GPU Acceleration Links: 
+
+https://fmorenovr.medium.com/set-up-conda-environment-pytorch-1-7-cuda-11-1-96a8e93014cc
+
+https://medium.com/@vatsalyakrishanmaurya/how-to-setup-gpu-for-deep-learning-windows-11-9f84246b38f0
